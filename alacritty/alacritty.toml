@@ -1,0 +1,14 @@
+import = ["/home/lowkey/.config/alacritty/dracula.toml"]
+
+[font]
+normal.family = "GeistMono Nerd Font Mono"
+normal.style = "Medium"
+size = 13.0
+
+[window]
+blur = true
+dynamic_padding = true
+dimensions.columns = 100
+dimensions.lines = 35
+decorations = "Full"
+decorations_theme_variant = "Dark"
