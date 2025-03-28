@@ -1,0 +1,12 @@
+theme = "catppuccin-mocha"
+font-family = "Zed Mono"
+font-style = "Medium Extended"
+font-size = 18
+font-family-italic = "Zed Mono"
+font-style-italic = "Medium Extended Oblique" 
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
+window-decoration = auto
+window-subtitle = false
